@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints and large files
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+*.tar.gz
+*.zip
+
+# Output directories
+results/
+checkpoints/
+checkpoint_release/
+
+# System files
+.DS_Store
+.vscode/
+.idea/
