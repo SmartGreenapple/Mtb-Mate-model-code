@@ -122,11 +122,5 @@ https://lmmd.ecust.edu.cn/mtb-mate/
 
 The web platform supports SMILES-based single-molecule and batch prediction and provides ensemble pMIC predictions, target-specific activity probabilities, and uncertainty estimates.
 
-## Data Availability
 
-The cleaned datasets and trained model checkpoints may be provided separately depending on data-sharing restrictions and file size limitations.
-
-## Citation
-
-If you use this code or the Mtb-Mate platform, please cite the corresponding manuscript.
 
