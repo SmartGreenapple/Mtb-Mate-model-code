@@ -104,15 +104,17 @@ final_avg_classification.csv
 
 These files are saved in the output directory defined by `OUT_DIR`.
 
-## Model Checkpoints
+## Web Platform
 
 Large trained checkpoint files are not stored directly in this repository due to file size limitations.
 
-The checkpoint archive is provided through **GitHub Releases**. After downloading the archive, extract it using:
+The checkpoint archive is provided through GitHub Releases and can be downloaded from:
 
-```bash
+https://github.com/SmartGreenapple/Mtb-Mate-model-code/releases/tag/v1.0.0
+
+After downloading the archive, extract it using:
+
 tar -xzf results_5fold_20260510_for_release.tar.gz
-```
 
 ## Web Platform
 
